@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MM6108IQ MotherBoard.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MM6108IQ MotherBoard.SchDoc|Designator=U_MM6108IQ MotherBoard|SchDesignator=U_MM6108IQ MotherBoard|FileName=MM6108IQ Chip.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MM6108IQ Chip.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MM6108IQ MotherBoard.SchDoc|Designator=U_Power Management|SchDesignator=U_Power Management|FileName=Power Management.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power Management.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
