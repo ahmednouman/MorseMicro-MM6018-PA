@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J? Old Footprint=CONN_B3B-PH-SM4-TB_03P_JST New Footprint=TP_1x2mm_UN1Q
+Change Component Footprint: Designator=L? Old Footprint=IND_0603_Coilcraft_0603DC New Footprint=IND_0603_Coilcraft_0603DC
+Change Component Footprint: Designator=J? Old Footprint=TP_1mm_UN1Q New Footprint=TP_1mm_UN1Q
+Change Component Footprint: Designator=J? Old Footprint=TP_1mm_UN1Q New Footprint=TP_1mm_UN1Q
+Change Component Footprint: Designator=J? Old Footprint=TP_1mm_UN1Q New Footprint=TP_1mm_UN1Q
+Change Component Footprint: Designator=J? Old Footprint=TP_1mm_UN1Q New Footprint=TP_1mm_UN1Q
+Change Component Footprint: Designator=J? Old Footprint=TP_1mm_UN1Q New Footprint=TP_1mm_UN1Q
+Change Component Footprint: Designator=J? Old Footprint=TP_1mm_UN1Q New Footprint=TP_1mm_UN1Q
+Change Component Footprint: Designator=J? Old Footprint=TP_1mm_UN1Q New Footprint=TP_1mm_UN1Q
+Change Pin Designator/Name:  Old Designator=N?-1 Old Name=GND New Designator =GND New Name=1
+Change Pin Designator/Name:  Old Designator=N?-4 Old Name=GND New Designator =VBYP New Name=4

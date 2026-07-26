@@ -1,0 +1,410 @@
+Removed Pin From Net: NetName=GND Pin=N?-1
+Removed Pin From Net: NetName=GND Pin=N?-4
+Removed Member From Class: ClassName=Filter Bank Member=N?
+Removed Member From Class: ClassName=Filter Bank Member=S?
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0603_UN1Q New Footprint=CAP_0603_UN1Q
+Change Component Footprint: Designator=R? Old Footprint=RES_0603_UN1Q New Footprint=RES_0603_UN1Q
+Change Component Footprint: Designator=R? Old Footprint=RES_0603_UN1Q New Footprint=RES_0603_UN1Q
+Change Component Footprint: Designator=R? Old Footprint=RES_0603_UN1Q New Footprint=RES_0603_UN1Q
+Change Component Footprint: Designator=R? Old Footprint=RES_0603_UN1Q New Footprint=RES_0603_UN1Q
+Change Component Footprint: Designator=N? Old Footprint=RSF-916.500-5200-1411-TR-NS3 New Footprint=RSF-916.500-5200-1411-TR-NS3
+Change Component Footprint: Designator=N? Old Footprint=SKY13575-639LF-Footprint New Footprint=SKY13575-639LF-Footprint
+Change Component Footprint: Designator=N? Old Footprint=SKY13575-639LF-Footprint New Footprint=SKY13575-639LF-Footprint
+Change Component Footprint: Designator=J? Old Footprint=TP_1mm_UN1Q New Footprint=TP_1mm_UN1Q
+Change Footprint: Footprint Not Found CONN_B3B-PH-SM4-TB_03P_JST
+Change Component Comment : Designator=J? Old Comment=PAD 1 x 2 mm New Comment=B3B-PH-SM4-TB(LF)(SN)
+Change Component Kind : Designator=J? Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "J?" ("J?"); Footprint = "TP_1x2mm_UN1Q"; UniqueID = "\IBJUJKOM" ("\IBJUJKOM")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B3B-PH-SM4-TB(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=?(TVS_0201_EZAEG)
+Add component (AddParameter): Name = "Alternative component"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "SMALL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "ESD & EMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/ww/products/pt/esd-suppressor/models/EZAEG1N50AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "17102023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = "0.33 mm x 0.63mm x 0.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EZAEG1N50AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = "-55C ... +125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EZAEG1N50AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Discrete_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.04pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=?(TVS_0201_EZAEG)
+Add component (AddParameter): Name = "Alternative component"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "SMALL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "ESD & EMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/ww/products/pt/esd-suppressor/models/EZAEG1N50AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "17102023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = "0.33 mm x 0.63mm x 0.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EZAEG1N50AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = "-55C ... +125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EZAEG1N50AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Discrete_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.04pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = "Allowed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20210917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UMK107AB7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UMK107AB7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RLC_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "RLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = "Allowed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20210917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UMK107AB7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UMK107AB7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RLC_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "RLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = "Allowed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20210917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UMK107AB7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UMK107AB7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RLC_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "RLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = "Allowed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20210917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UMK107AB7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UMK107AB7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RLC_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "RLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=L?(IND_0201_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "SMALL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/en-us/products/productdetail.aspx?cate=luNoiseSupprFilteChipFerriBead&partno=BLM03PG330SN1%23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20200304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM03PG330SN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = "-55 ... +125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM03PG330SN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Discrete_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R@100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(IND_0201_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "SMALL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/en-us/products/productdetail.aspx?cate=luNoiseSupprFilteChipFerriBead&partno=BLM03PG330SN1%23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20200304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM03PG330SN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = "-55 ... +125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM03PG330SN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Discrete_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R@100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found TA1735A_SM2016-4
+Add component: Footprint Not Found SM3030_6PIN_H1_25
+Added Component: Designator=R?(RES_0805_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.susumu.co.jp/common/pdf/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20210928"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "KRL1220E-M-R010-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = "-55C ... +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rule"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RLC_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "RLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=?-1
+Added Pin To Net: NetName=GND Pin=?-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin J?-2
+Added Pin To Net: NetName=VDD_3V3 Pin=L?-2
+Added Pin To Net: NetName=GND Pin=N?-1
+Added Pin To Net: NetName=GND Pin=N?-4
+Add Pin To Net: Unknown Pin: Pin N?-6
+Add Pin To Net: Unknown Pin: Pin N?-A
+Add Pin To Net: Unknown Pin: Pin N?-C
+Added Pin To Net: NetName=3V3_IN Pin=?-1
+Added Pin To Net: NetName=3V3_IN Pin=C?-1
+Added Pin To Net: NetName=3V3_IN Pin=C?-1
+Added Pin To Net: NetName=3V3_IN Pin=J?-1
+Added Pin To Net: NetName=3V3_IN Pin=L?-1
+Added Net: Name=3V3_IN
+Added Pin To Net: NetName=5V_IN Pin=?-2
+Added Pin To Net: NetName=5V_IN Pin=C?-2
+Added Pin To Net: NetName=5V_IN Pin=C?-2
+Added Pin To Net: NetName=5V_IN Pin=L?-1
+Added Net: Name=5V_IN
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Change Class Name : Old Net Name=Filter Bank New Net Name=RFOUT DaughterBoard
+Change Class Name : Old Net Name=LNA New Net Name=Filter Bank
+Added Class: Name=LNA
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component ? TVS_0201_004_EZAEG1N
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component ? TVS_0201_004_EZAEG1N
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_NA
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component J? B3B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=Filter Bank Member=Component J? U.FL-R-SMT-1(80)
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component L? FERRITE_0201_BLM03_33Ohm
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component L? FERRITE_0201_BLM03_33Ohm
+Added Member To Class: ClassName=Filter Bank Member=Component N? SKY13575-639LF
+Added Member To Class: ClassName=Filter Bank Member=Component N? TA1735A
+Added Member To Class: ClassName=Filter Bank Member=Component N? RSF-916.500-5200-1411-TR-NS3
+Added Member To Class: ClassName=Filter Bank Member=Component N? SKY13575-639LF
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component S? 219-4MST
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
