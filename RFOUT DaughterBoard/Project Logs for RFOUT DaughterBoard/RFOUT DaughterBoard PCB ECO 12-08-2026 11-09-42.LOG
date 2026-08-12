@@ -1,0 +1,110 @@
+Removed Member From Class: ClassName=RF Member=NetC?_1
+Removed Member From Class: ClassName=RF Member=NetC?_2
+Removed Member From Class: ClassName=RF Member=NetFL?_1
+Removed Member From Class: ClassName=RF Member=NetFL?_3
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found DEA070787LT-4002A1
+Add Component: Footprint Not Found DEA160960LT-5059A1
+Add Component: Footprint Not Found IND SMD 0402
+Add Component: Footprint Not Found IND SMD 0402
+Add Component: Footprint Not Found IND SMD 0402HP
+Add Component: Footprint Not Found IND SMD 0603
+Add Component: Footprint Not Found IND SMD 0402
+Add Component: Footprint Not Found IND SMD 0402
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found TestPoint Surface 0.8mm
+Add Component: Footprint Not Found QFN50P300X300X80-17N
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin FL1-2
+Add Pin To Net: Unknown Pin: Pin FL1-3
+Add Pin To Net: Unknown Pin: Pin FL1-4
+Add Pin To Net: Unknown Pin: Pin FL2-2
+Add Pin To Net: Unknown Pin: Pin FL2-4
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L6-1
+Add Pin To Net: Unknown Pin: Pin L6-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-17
+Added Net: Name=NetC1_1
+Added Net: Name=NetC2_1
+Added Net: Name=NetC6_1
+Added Net: Name=NetC7_1
+Added Net: Name=NetC7_2
+Added Net: Name=NetC8_2
+Added Net: Name=NetC9_1
+Added Net: Name=NetFL1_1
+Added Net: Name=NetFL2_3
+Added Net: Name=NetL3_2
+Added Net: Name=NetR2_2
+Added Net: Name=NetR3_1
+Added Net: Name=NetR4_1
+Added Net: Name=NetR4_2
+Added Net: Name=NetR5_1
+Add Class Member: Failed to add class member : Component C1 12pF
+Add Class Member: Failed to add class member : Component C2 12pF
+Add Class Member: Failed to add class member : Component C3 100nF
+Add Class Member: Failed to add class member : Component C4 100pF
+Add Class Member: Failed to add class member : Component C5 10uF
+Add Class Member: Failed to add class member : Component C6 100pF
+Add Class Member: Failed to add class member : Component C7 47pF
+Add Class Member: Failed to add class member : Component C8 5.6pF
+Add Class Member: Failed to add class member : Component C9 20pF
+Add Class Member: Failed to add class member : Component C10 7.5pF
+Add Class Member: Failed to add class member : Component FL1 DEA070787LT-4002A1
+Add Class Member: Failed to add class member : Component FL2 DEA160960LT-5059A1
+Add Class Member: Failed to add class member : Component L1 11nF
+Add Class Member: Failed to add class member : Component L2 11nF
+Add Class Member: Failed to add class member : Component L3 18nF
+Add Class Member: Failed to add class member : Component L4 18nF
+Add Class Member: Failed to add class member : Component L5 2.5nF
+Add Class Member: Failed to add class member : Component L6 6.2nF
+Add Class Member: Failed to add class member : Component R1 0R
+Add Class Member: Failed to add class member : Component R2 0R
+Add Class Member: Failed to add class member : Component R3 0R
+Add Class Member: Failed to add class member : Component R4 5K36
+Add Class Member: Failed to add class member : Component R5 2K26
+Add Class Member: Failed to add class member : Component TP1 TestPoint
+Add Class Member: Failed to add class member : Component U1 GRF5610
+Added Member To Class: ClassName=RF Member=Wire NetC1_1
+Added Member To Class: ClassName=RF Member=Wire NetC2_1
+Added Member To Class: ClassName=RF Member=Wire NetC7_1
+Added Member To Class: ClassName=RF Member=Wire NetC7_2
+Added Member To Class: ClassName=RF Member=Wire NetC8_2
+Added Member To Class: ClassName=RF Member=Wire NetC9_1
+Added Member To Class: ClassName=RF Member=Wire NetFL1_1
+Added Member To Class: ClassName=RF Member=Wire NetFL2_3

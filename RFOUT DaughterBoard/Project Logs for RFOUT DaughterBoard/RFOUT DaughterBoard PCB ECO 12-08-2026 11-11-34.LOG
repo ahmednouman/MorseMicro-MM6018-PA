@@ -1,0 +1,152 @@
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Added Component: Designator=C4(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C77177"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Added Component: Designator=C6(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C77177"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Added Component: Designator=FL1(DEA070787LT-4002A1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DEA070787LT-4002A1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C6601348"; VariantName = "[No Variations]"
+Added Component: Designator=FL2(DEA160960LT-5059A1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DEA160960LT-5059A1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C695578"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found IND SMD 0402
+Add Component: Footprint Not Found IND SMD 0402
+Added Component: Designator=L3(IND SMD 0402HP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402HP-18NXJRW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C39084920"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found IND SMD 0603
+Add Component: Footprint Not Found IND SMD 0402
+Added Component: Designator=L6(IND SMD 0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQW15AN6N2C00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C113118"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found TestPoint Surface 0.8mm
+Added Component: Designator=U1(QFN50P300X300X80-17N)
+Add component (AddParameter): Name = "Manufacture"; Value = "Guerrilla RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "GRF5610"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Added Pin To Net: NetName=GRG5610_VCC2 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Added Pin To Net: NetName=NetFL1_1 Pin=FL1-1
+Added Pin To Net: NetName=GRF5610_RFIN Pin=FL1-2
+Added Pin To Net: NetName=GND Pin=FL1-3
+Added Pin To Net: NetName=GND Pin=FL1-4
+Added Pin To Net: NetName=NetC7_2 Pin=FL2-1
+Added Pin To Net: NetName=GND Pin=FL2-2
+Added Pin To Net: NetName=NetFL2_3 Pin=FL2-3
+Added Pin To Net: NetName=GND Pin=FL2-4
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Added Pin To Net: NetName=GRG5610_VCC1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Added Pin To Net: NetName=GRF5610_RFIN Pin=L6-1
+Added Pin To Net: NetName=GND Pin=L6-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Added Pin To Net: NetName=NetR2_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-3
+Added Pin To Net: NetName=NetC8_2 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=NetC9_1 Pin=U1-9
+Added Pin To Net: NetName=NetC9_1 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetR3_1 Pin=U1-12
+Added Pin To Net: NetName=NetL3_2 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=NetR4_2 Pin=U1-15
+Added Pin To Net: NetName=NetC6_1 Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
+Add Class Member: Failed to add class member : Component C1 12pF
+Add Class Member: Failed to add class member : Component C2 12pF
+Add Class Member: Failed to add class member : Component C3 100nF
+Added Member To Class: ClassName=U_Amplifier Member=Component C4 100pF
+Add Class Member: Failed to add class member : Component C5 10uF
+Added Member To Class: ClassName=U_Amplifier Member=Component C6 100pF
+Add Class Member: Failed to add class member : Component C7 47pF
+Add Class Member: Failed to add class member : Component C8 5.6pF
+Add Class Member: Failed to add class member : Component C9 20pF
+Add Class Member: Failed to add class member : Component C10 7.5pF
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component FL1 DEA070787LT-4002A1
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component FL2 DEA160960LT-5059A1
+Add Class Member: Failed to add class member : Component L1 11nF
+Add Class Member: Failed to add class member : Component L2 11nF
+Added Member To Class: ClassName=U_Amplifier Member=Component L3 18nF
+Add Class Member: Failed to add class member : Component L4 18nF
+Add Class Member: Failed to add class member : Component L5 2.5nF
+Added Member To Class: ClassName=U_Amplifier Member=Component L6 6.2nF
+Add Class Member: Failed to add class member : Component R1 0R
+Add Class Member: Failed to add class member : Component R2 0R
+Add Class Member: Failed to add class member : Component R3 0R
+Add Class Member: Failed to add class member : Component R4 5K36
+Add Class Member: Failed to add class member : Component R5 2K26
+Add Class Member: Failed to add class member : Component TP1 TestPoint
+Added Member To Class: ClassName=U_Amplifier Member=Component U1 GRF5610

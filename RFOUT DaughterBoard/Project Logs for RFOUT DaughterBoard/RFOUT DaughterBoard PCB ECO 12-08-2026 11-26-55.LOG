@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Component Footprint: Designator=R2 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Component Footprint: Designator=R3 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Added Component: Designator=TP1(TestPoint Surface 0.8mm)
+Added Pin To Net: NetName=NetR2_2 Pin=TP1-1
+Added Member To Class: ClassName=U_Amplifier Member=Component TP1 TestPoint

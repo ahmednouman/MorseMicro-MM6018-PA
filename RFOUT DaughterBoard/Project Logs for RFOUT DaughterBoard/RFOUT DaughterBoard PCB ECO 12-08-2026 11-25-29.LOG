@@ -1,0 +1,187 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=FL2-1
+Removed Pin From Net: NetName=NetC8_2 Pin=U1-3
+Removed Pin From Net: NetName=NetC8_2 Pin=U1-4
+Removed Member From Class: ClassName=RF Member=NetC7_1
+Change Component Footprint: Designator=L3 Old Footprint=IND SMD 0402HP New Footprint=IND SMD 0603
+Change component parameters: Designator = "L3" ("L3"); Footprint = "IND SMD 0402HP"; UniqueID = "\WWFZHOKG\BUMKIUEB" ("\WWFZHOKG\BUMKIUEB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LQW18AN18NG8ZD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C1329352"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GJM1555C1H120FB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C161304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GJM1555C1H120FB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C161304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C77177"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRT155C80J106ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C20044558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "5.6pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GJM1555C1H5R6BB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C161329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "47pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GJM1555C1H470GB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C3843411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GJM1555C1H200GB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C882568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "7.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GJM1555C1H7R5BB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C497526"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND SMD 0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQW15AN11NG8ZD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C2044108"; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND SMD 0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQW15AN11NG8ZD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C2044108"; VariantName = "[No Variations]"
+Added Component: Designator=L4(IND SMD 0402HP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402HP-18NXJRW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C39084920"; VariantName = "[No Variations]"
+Added Component: Designator=L5(IND SMD 0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQW15AN2N5G80D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C412267"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES SMD 0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C95177"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES SMD 0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C95177"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES SMD 0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C95177"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ2RKF5361X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5K36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C3025674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5K36"; VariantName = "[No Variations]"
+Added Component: Designator=R5(CAP Ceramic SMD 0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0402BRD072K26L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2K26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C852697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K26"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TestPoint Surface 0.8mm
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GRG5610_VCC1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GRG5610_VCC2 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GRF5610_RFIN Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetC8_2 Pin=FL2-1
+Added Pin To Net: NetName=NetFL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-2
+Added Pin To Net: NetName=NetFL2_3 Pin=L2-1
+Added Pin To Net: NetName=NetC2_1 Pin=L2-2
+Added Pin To Net: NetName=GRG5610_VCC2 Pin=L4-1
+Added Pin To Net: NetName=NetC9_1 Pin=L4-2
+Added Pin To Net: NetName=NetC9_1 Pin=L5-2
+Added Pin To Net: NetName=GRG5610_VCC1 Pin=R1-1
+Added Pin To Net: NetName=GRG5610_VCC2 Pin=R1-2
+Added Pin To Net: NetName=GRF5610_VSHDIN Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=GRG5610_VCC2 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetC6_1 Pin=R5-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Added Pin To Net: NetName=NetC7_2 Pin=U1-3
+Added Pin To Net: NetName=NetC7_2 Pin=U1-4
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C10-1
+Added Pin To Net: NetName=NetC8_1 Pin=L5-1
+Added Net: Name=NetC8_1
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C1 12pF
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C2 12pF
+Added Member To Class: ClassName=U_Amplifier Member=Component C3 100pF
+Added Member To Class: ClassName=U_Amplifier Member=Component C5 10uF
+Added Member To Class: ClassName=U_Amplifier Member=Component C7 5.6pF
+Added Member To Class: ClassName=U_Amplifier Member=Component C8 47pF
+Added Member To Class: ClassName=U_Amplifier Member=Component C9 20pF
+Added Member To Class: ClassName=U_Amplifier Member=Component C10 7.5pF
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component L1 11nF
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component L2 11nF
+Added Member To Class: ClassName=U_Amplifier Member=Component L4 18nF
+Added Member To Class: ClassName=U_Amplifier Member=Component L5 2.5nF
+Added Member To Class: ClassName=U_Amplifier Member=Component R1 0R
+Added Member To Class: ClassName=U_Amplifier Member=Component R2 0R
+Added Member To Class: ClassName=U_Amplifier Member=Component R3 0R
+Added Member To Class: ClassName=U_Amplifier Member=Component R4 5K36
+Added Member To Class: ClassName=U_Amplifier Member=Component R5 2K26
+Add Class Member: Failed to add class member : Component TP1 TestPoint
+Added Member To Class: ClassName=RF Member=Wire NetC8_1
