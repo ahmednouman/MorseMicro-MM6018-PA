@@ -1,0 +1,276 @@
+Add Component: Footprint Not Found CAP Ceramic SMD 0805
+Add Component: Footprint Not Found CAP Ceramic SMD 0805
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Added Component: Designator=C7(CAP Ceramic SMD 0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A475KA8NQNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C69335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristics Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP Ceramic SMD 0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A475KA8NQNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C69335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristics Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 1206
+Add Component: Footprint Not Found CAP Ceramic SMD 1206
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found DO-214AB
+Add Component: Footprint Not Found Fuse SMD 2410 MFG
+Add Component: Footprint Not Found XT30PW-M
+Add Component: Footprint Not Found IND SMD 1210
+Add Component: Footprint Not Found IND SMD VLS6045EX
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found TestPoint Surface 0.8mm
+Add Component: Footprint Not Found SOT-223
+Add Component: Footprint Not Found XTAL_ECS-160-9-37-CKM-TR
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R23-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R26-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Pin To Net: Unknown Pin: Pin R30-1
+Add Pin To Net: Unknown Pin: Pin R30-2
+Add Pin To Net: Unknown Pin: Pin R31-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R32-1
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Pin To Net: Unknown Pin: Pin R34-1
+Add Pin To Net: Unknown Pin: Pin R34-2
+Add Pin To Net: Unknown Pin: Pin R35-1
+Add Pin To Net: Unknown Pin: Pin R35-2
+Add Pin To Net: Unknown Pin: Pin R36-1
+Add Pin To Net: Unknown Pin: Pin R36-2
+Add Pin To Net: Unknown Pin: Pin R37-1
+Add Pin To Net: Unknown Pin: Pin R37-2
+Add Pin To Net: Unknown Pin: Pin R38-1
+Add Pin To Net: Unknown Pin: Pin R38-2
+Add Pin To Net: Unknown Pin: Pin R39-1
+Add Pin To Net: Unknown Pin: Pin R39-2
+Add Pin To Net: Unknown Pin: Pin R40-1
+Add Pin To Net: Unknown Pin: Pin R40-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Class Member: Failed to add class member : Component C1 10uF
+Add Class Member: Failed to add class member : Component C2 22uF
+Add Class Member: Failed to add class member : Component C3 470nF
+Add Class Member: Failed to add class member : Component C5 10uF
+Add Class Member: Failed to add class member : Component C6
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C7
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C8
+Add Class Member: Failed to add class member : Component C9 470nF
+Add Class Member: Failed to add class member : Component C10 15pF
+Add Class Member: Failed to add class member : Component C11 15pF
+Add Class Member: Failed to add class member : Component C12 2.2uF
+Add Class Member: Failed to add class member : Component C13
+Add Class Member: Failed to add class member : Component C14
+Add Class Member: Failed to add class member : Component C15
+Add Class Member: Failed to add class member : Component C16 33pF
+Add Class Member: Failed to add class member : Component C20 47nF
+Add Class Member: Failed to add class member : Component C21
+Add Class Member: Failed to add class member : Component D1 B360A-13-F
+Add Class Member: Failed to add class member : Component F1 0452.500MRL
+Add Class Member: Failed to add class member : Component J1 XT30PW-M
+Add Class Member: Failed to add class member : Component L1 10uF
+Add Class Member: Failed to add class member : Component L2 15uH
+Add Class Member: Failed to add class member : Component R1 10k
+Add Class Member: Failed to add class member : Component R2 10k
+Add Class Member: Failed to add class member : Component R3 10k
+Add Class Member: Failed to add class member : Component R4 10k
+Add Class Member: Failed to add class member : Component R5 10k
+Add Class Member: Failed to add class member : Component R6 10k
+Add Class Member: Failed to add class member : Component R7 10k
+Add Class Member: Failed to add class member : Component R8 10k
+Add Class Member: Failed to add class member : Component R9 10k
+Add Class Member: Failed to add class member : Component R10 10k
+Add Class Member: Failed to add class member : Component R11 10k
+Add Class Member: Failed to add class member : Component R12 10k
+Add Class Member: Failed to add class member : Component R13 10k
+Add Class Member: Failed to add class member : Component R14 10k
+Add Class Member: Failed to add class member : Component R15 10k
+Add Class Member: Failed to add class member : Component R16 10k
+Add Class Member: Failed to add class member : Component R17 47kR
+Add Class Member: Failed to add class member : Component R18 47kR
+Add Class Member: Failed to add class member : Component R19 47kR
+Add Class Member: Failed to add class member : Component R20 47kR
+Add Class Member: Failed to add class member : Component R21 47kR
+Add Class Member: Failed to add class member : Component R22 0R
+Add Class Member: Failed to add class member : Component R23 0R
+Add Class Member: Failed to add class member : Component R24 0R
+Add Class Member: Failed to add class member : Component R25 0R
+Add Class Member: Failed to add class member : Component R26 0R
+Add Class Member: Failed to add class member : Component R27 10k
+Add Class Member: Failed to add class member : Component R28 0R
+Add Class Member: Failed to add class member : Component R29 10k
+Add Class Member: Failed to add class member : Component R30 10k
+Add Class Member: Failed to add class member : Component R31 10k
+Add Class Member: Failed to add class member : Component R32 10k
+Add Class Member: Failed to add class member : Component R33 10k
+Add Class Member: Failed to add class member : Component R34 100k
+Add Class Member: Failed to add class member : Component R35 562k
+Add Class Member: Failed to add class member : Component R36 60k4
+Add Class Member: Failed to add class member : Component R37 7K87
+Add Class Member: Failed to add class member : Component R38 97K6
+Add Class Member: Failed to add class member : Component R39 86K6
+Add Class Member: Failed to add class member : Component R40 11k5
+Add Class Member: Failed to add class member : Component TP1 TestPoint
+Add Class Member: Failed to add class member : Component U3 TLV76133DCYR
+Add Class Member: Failed to add class member : Component Y1 32MHz

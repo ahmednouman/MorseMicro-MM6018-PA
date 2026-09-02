@@ -1,0 +1,252 @@
+Removed Pin From Net: NetName=VBAT3V3 Pin=C?-1
+Removed Pin From Net: NetName=VDDIO3V3 Pin=C?-2
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 1206
+Add Component: Footprint Not Found CAP Ceramic SMD 0805
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 1206
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0805
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0603
+Add Component: Footprint Not Found DO-214AB
+Add Component: Footprint Not Found Fuse SMD 2410 MFG
+Add Component: Footprint Not Found XT30PW-M
+Add Component: Footprint Not Found IND SMD VLS6045EX
+Add Component: Footprint Not Found IND SMD 1210
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found CAP Ceramic SMD 0402
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found RES SMD 0603
+Add Component: Footprint Not Found TestPoint Surface 0.8mm
+Add Component: Footprint Not Found SOT-223
+Add Component: Footprint Not Found XTAL_ECS-160-9-37-CKM-TR
+Added Pin To Net: NetName=5V_TPS60B Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=12VIN Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=MM6108IQ_BuckFB Pin=C?-1
+Added Pin To Net: NetName=MM6108IQ_RST Pin=C?-1
+Added Pin To Net: NetName=MM6108IQ_XON Pin=C?-1
+Added Pin To Net: NetName=MM6108IQ_XOP Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=VBAT3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=MM6108IQ_BuckFB Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=VBAT3V3 Pin=C?-2
+Added Pin To Net: NetName=VDDIO3V3 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin F?-1
+Add Pin To Net: Unknown Pin: Pin F?-2
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin TP?-1
+Added Pin To Net: NetName=3V3 Pin=U?-2
+Added Pin To Net: NetName=5V Pin=U?-3
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Add Pin To Net: Unknown Pin: Pin Y?-3
+Add Pin To Net: Unknown Pin: Pin Y?-4
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 470nF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 15pF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 22uF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 470nF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C?
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C?
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 10uF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 10uF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 15pF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C?
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 470nF
+Added Member To Class: ClassName=Power Management Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C? 33pF
+Added Member To Class: ClassName=Power Management Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C? 47uF
+Added Member To Class: ClassName=Power Management Member=Component C? 47uF
+Added Member To Class: ClassName=Power Management Member=Component C? 47uF
+Added Member To Class: ClassName=Power Management Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C? 47nF
+Add Class Member: Failed to add class member : Component D? B360A-13-F
+Add Class Member: Failed to add class member : Component F? 0452.500MRL
+Add Class Member: Failed to add class member : Component J? XT30PW-M
+Add Class Member: Failed to add class member : Component L? 10uF
+Add Class Member: Failed to add class member : Component L? 15uH
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 100k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 11k5
+Add Class Member: Failed to add class member : Component R? 86K6
+Add Class Member: Failed to add class member : Component R? 562k
+Add Class Member: Failed to add class member : Component R? 7K87
+Add Class Member: Failed to add class member : Component R? 60k4
+Add Class Member: Failed to add class member : Component R? 97K6
+Add Class Member: Failed to add class member : Component TP? TestPoint
+Added Member To Class: ClassName=Power Management Member=Component U? TPS54560BDDAR
+Add Class Member: Failed to add class member : Component Y? 32MHz
