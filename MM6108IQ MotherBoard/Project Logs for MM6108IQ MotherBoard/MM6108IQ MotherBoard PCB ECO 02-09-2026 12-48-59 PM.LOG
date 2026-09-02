@@ -1,0 +1,359 @@
+Add component: Footprint Not Found CAP Ceramic SMD 0402
+Added Component: Designator=C?(CAP Ceramic SMD 1210)
+Add component (AddParameter): Name = "Case/Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM32ER71A476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C84494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristics Code"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found CAP Ceramic SMD 1206
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Added Component: Designator=C?(CAP Ceramic SMD 0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX5R7BB225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C106853"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Added Component: Designator=C?(CAP Ceramic SMD 1210)
+Add component (AddParameter): Name = "Case/Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM32ER71A476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C84494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristics Code"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP Ceramic SMD 1210)
+Add component (AddParameter): Name = "Case/Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM32ER71A476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C84494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristics Code"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found CAP Ceramic SMD 0402
+Add component: Footprint Not Found CAP Ceramic SMD 1206
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0805
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0805
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0603
+Add component: Footprint Not Found DO-214AB
+Add component: Footprint Not Found Fuse SMD 2410 MFG
+Add component: Footprint Not Found XT30PW-M
+Add component: Footprint Not Found IND SMD VLS6045EX
+Add component: Footprint Not Found IND SMD 1210
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found CAP Ceramic SMD 0402
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found RES SMD 0603
+Add component: Footprint Not Found TestPoint Surface 0.8mm
+Add component: Footprint Not Found SOT-223
+Added Component: Designator=U?(LMR14050)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS54560BDDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C1850354"; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFN48 6x6)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Morse Micro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MM6108IQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found XTAL_ECS-160-9-37-CKM-TR
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=5V_TPS60B Pin=C?-1
+Added Pin To Net: NetName=5V_TPS60B Pin=C?-1
+Added Pin To Net: NetName=5V_TPS60B Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=12VIN Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=MM6108IQ_BuckFB Pin=C?-1
+Added Pin To Net: NetName=MM6108IQ_RST Pin=C?-1
+Added Pin To Net: NetName=MM6108IQ_XON Pin=C?-1
+Added Pin To Net: NetName=MM6108IQ_XOP Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=VBAT3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=MM6108IQ_BuckFB Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=VBAT3V3 Pin=C?-2
+Added Pin To Net: NetName=VDDIO3V3 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin F?-1
+Add Pin To Net: Unknown Pin: Pin F?-2
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin TP?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=3V3 Pin=U?-2
+Added Pin To Net: NetName=12VIN Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=5V Pin=U?-3
+Added Pin To Net: NetName=NetTP?_1 Pin=U?-3
+Added Pin To Net: NetName=TPS54560B_EN Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=MM6108IQ_RFIN Pin=U?-5
+Added Pin To Net: NetName=NetR?_1 Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=NetC?_1 Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=MM6108IQ_RFOUT Pin=U?-7
+Added Pin To Net: NetName=NetC?_2 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=MM6108IQ_WAKE Pin=U?-9
+Added Pin To Net: NetName=MM6108IQ_RST Pin=U?-10
+Added Pin To Net: NetName=VBAT3V3 Pin=U?-11
+Added Pin To Net: NetName=MM6108IQ_IND Pin=U?-12
+Added Pin To Net: NetName=MM6108IQ_BuckFB Pin=U?-13
+Added Pin To Net: NetName=MM6108IQ_BuckFB Pin=U?-14
+Added Pin To Net: NetName=VBAT3V3 Pin=U?-15
+Added Pin To Net: NetName=MM6_GPIO0/BUSY Pin=U?-17
+Added Pin To Net: NetName=MM6_GPIO1 Pin=U?-18
+Added Pin To Net: NetName=MM6_GPIO2 Pin=U?-19
+Added Pin To Net: NetName=MM6_GPIO3 Pin=U?-20
+Added Pin To Net: NetName=MM6_GPIO4 Pin=U?-21
+Added Pin To Net: NetName=MM6_GPIO5 Pin=U?-22
+Added Pin To Net: NetName=MM6_GPIO6 Pin=U?-23
+Added Pin To Net: NetName=VDDIO3V3 Pin=U?-24
+Added Pin To Net: NetName=NetR?_2 Pin=U?-25
+Added Pin To Net: NetName=MM6_GPIO7 Pin=U?-32
+Added Pin To Net: NetName=MM6_GPIO8 Pin=U?-33
+Added Pin To Net: NetName=MM6_GPIO9 Pin=U?-34
+Added Pin To Net: NetName=MM6_GPIO10 Pin=U?-35
+Added Pin To Net: NetName=MM6_GPIO11 Pin=U?-36
+Added Pin To Net: NetName=MM6_GPIO12 Pin=U?-37
+Added Pin To Net: NetName=MM6_GPIO13 Pin=U?-38
+Added Pin To Net: NetName=MM6_GPIO14 Pin=U?-39
+Added Pin To Net: NetName=MM6_GPIO15 Pin=U?-40
+Added Pin To Net: NetName=MM6_JTAG_TDO Pin=U?-41
+Added Pin To Net: NetName=MM6_JTAG_TMS Pin=U?-42
+Added Pin To Net: NetName=MM6_JTAG_TDI Pin=U?-43
+Added Pin To Net: NetName=MM6_JTAG_RST Pin=U?-44
+Added Pin To Net: NetName=MM6_JTAG_TCK Pin=U?-45
+Added Pin To Net: NetName=MM6108IQ_XON Pin=U?-46
+Added Pin To Net: NetName=MM6108IQ_XOP Pin=U?-47
+Added Pin To Net: NetName=GND Pin=U?-49
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Add Pin To Net: Unknown Pin: Pin Y?-3
+Add Pin To Net: Unknown Pin: Pin Y?-4
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 2.2uF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 15pF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C?
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 470nF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 10uF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C?
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 470nF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 15pF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 470nF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 22uF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C? 10uF
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C? 47nF
+Added Member To Class: ClassName=Power Management Member=Component C? 47uF
+Added Member To Class: ClassName=Power Management Member=Component C? 47uF
+Added Member To Class: ClassName=Power Management Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C? 2.2uF
+Added Member To Class: ClassName=Power Management Member=Component C? 33pF
+Added Member To Class: ClassName=Power Management Member=Component C?
+Added Member To Class: ClassName=Power Management Member=Component C? 47uF
+Add Class Member: Failed to add class member : Component D? B360A-13-F
+Add Class Member: Failed to add class member : Component F? 0452.500MRL
+Add Class Member: Failed to add class member : Component J? XT30PW-M
+Add Class Member: Failed to add class member : Component L? 10uF
+Add Class Member: Failed to add class member : Component L? 15uH
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 100k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 0R
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 10k
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 47kR
+Add Class Member: Failed to add class member : Component R? 7K87
+Add Class Member: Failed to add class member : Component R? 97K6
+Add Class Member: Failed to add class member : Component R? 562k
+Add Class Member: Failed to add class member : Component R? 11k5
+Add Class Member: Failed to add class member : Component R? 86K6
+Add Class Member: Failed to add class member : Component R? 60k4
+Add Class Member: Failed to add class member : Component TP? TestPoint
+Added Member To Class: ClassName=MM6108IQ Chip Member=Component U? MM6108IQ
+Added Member To Class: ClassName=Power Management Member=Component U? TLV76133DCYR
+Added Member To Class: ClassName=Power Management Member=Component U? TPS54560BDDAR
+Add Class Member: Failed to add class member : Component Y? 32MHz

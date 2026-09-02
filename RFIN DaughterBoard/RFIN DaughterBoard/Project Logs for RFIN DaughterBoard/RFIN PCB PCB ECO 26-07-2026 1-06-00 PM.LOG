@@ -1,0 +1,164 @@
+Removed Pin From Net: NetName=GND Pin=N?-1
+Removed Pin From Net: NetName=GND Pin=N?-4
+Removed Member From Class: ClassName=LNA Member=L?
+Added Component: Designator=C?(CAP_0603_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = "Allowed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20210927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = "EAR99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GCM188R71H102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = "-55 ... +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM188R71H102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RLC_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "RLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603_UN1Q)
+Add component (AddParameter): Name = "Alternative component"; Value = "Allowed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "1_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "2_Product page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "3_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "4_X-information"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creation date"; Value = "20210927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions WxLxH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN"; Value = "EAR99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HasBeenBuilt"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GCM188R71H102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range"; Value = "-55 ... +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM188R71H102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sort order"; Value = "306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RLC_UN1Q.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "RLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found TA1735A_SM2016-4
+Add component: Footprint Not Found SM3030_6PIN_H1_25
+Add component: Footprint Not Found B39871B3725U410_TDK
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Added Pin To Net: NetName=GND Pin=N?-1
+Added Pin To Net: NetName=GND Pin=N?-4
+Add Pin To Net: Unknown Pin: Pin N?-6
+Add Pin To Net: Unknown Pin: Pin N?-A
+Add Pin To Net: Unknown Pin: Pin N?-C
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetL?_1" already exists
+Change Class Name : Old Net Name=LNA New Net Name=Filter Bank
+Added Class: Name=LNA
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component ? TVS_0201_004_EZAEG1N
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_NA
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component J? B3B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component L? FERRITE_0201_BLM03_33Ohm
+Added Member To Class: ClassName=Filter Bank Member=Component N? TA1735A
+Added Member To Class: ClassName=Filter Bank Member=Component N? SKY13575-639LF
+Added Member To Class: ClassName=Filter Bank Member=Component N? RSF-916.500-5200-1411-TR-NS3
+Added Member To Class: ClassName=Filter Bank Member=Component N? SKY13575-639LF
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component S? 219-4MST
+Add Class Member: Failed to add class member : Component U? B39871B3725U410
+Added Member To Class: ClassName=Filter Bank Member=Component X? U_FL_V3
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component X? U_FL_V3

@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=GND Pin=N?-1
+Removed Pin From Net: NetName=GND Pin=N?-4
+Removed Member From Class: ClassName=LNA Member=L?
+Add component: Footprint Not Found CONN_B3B-PH-SM4-TB_03P_JST
+Add component: Footprint Not Found TA1735A_SM2016-4
+Add component: Footprint Not Found SM3030_6PIN_H1_25
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Added Pin To Net: NetName=GND Pin=N?-1
+Added Pin To Net: NetName=GND Pin=N?-4
+Add Pin To Net: Unknown Pin: Pin N?-6
+Add Pin To Net: Unknown Pin: Pin N?-A
+Add Pin To Net: Unknown Pin: Pin N?-C
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetL?_1" already exists
+Change Class Name : Old Net Name=LNA New Net Name=Filter Bank
+Added Class: Name=LNA
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component ? TVS_0201_004_EZAEG1N
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_NA
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=Filter Bank Member=Component C? CAP_0603_100p
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component C? CAP_0603_1u_X7R
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=Filter Bank Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component J? Testpoint, Surface, 1.0mm
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component J? B3B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component J? B3B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component L? FERRITE_0201_BLM03_33Ohm
+Added Member To Class: ClassName=Filter Bank Member=Component N? TA1735A
+Added Member To Class: ClassName=Filter Bank Member=Component N? SKY13575-639LF
+Added Member To Class: ClassName=Filter Bank Member=Component N? SKY13575-639LF
+Added Member To Class: ClassName=Filter Bank Member=Component N? RSF-916.500-5200-1411-TR-NS3
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component R? RES_0603_1k
+Added Member To Class: ClassName=Filter Bank Member=Component S? 219-4MST
+Added Member To Class: ClassName=Filter Bank Member=Component X? U_FL_V3
+Added Member To Class: ClassName=RFOUT DaughterBoard Member=Component X? U_FL_V3
